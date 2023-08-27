@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Trirong:wght@100;200;800&display=swap");
+* {
+  background-color: #40e0d0;
+  color: #cd001a;
+  text-align: center;
+  font-family: "Trirong", cursive;
+}
+
+button {
+  font-size: 150%;
+  margin: 3%;
+  padding: 2%;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #008080;
+}
+
+button#rukkziSubmit {
+  padding-left: 40%;
+  padding-right: 40%;
+  font-size: 200%;
+}
+
+img {
+  width: 75vw;
+  height: 75vw;
+}
